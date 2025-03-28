@@ -31,7 +31,7 @@ Processamento automático de formulários de seguro
 
 ## Exemplo de Textract:
 ![cadastro](https://github.com/user-attachments/assets/2ede3661-5c3c-452b-84c7-47cfb231fb78)
-Aqui vemos os textos de uma imagem sendo detectada.
+Aqui vemos os textos de uma tabela em imagem sendo detectada.
 
 
 ## Conceitos de OCR
