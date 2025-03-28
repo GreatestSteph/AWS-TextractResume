@@ -1,7 +1,4 @@
-# AWS-TextractResume
-Resumo do Textract 
-
-## Amazon Textract
+# Amazon Textract
 
 Transforma documentos em dados utilizáveis.
 
@@ -17,6 +14,7 @@ Diferente do tradicional OCR, o amazon textract:
 - Reconhece tabelas e seus conteúdos;
 - Identifica campos-chaves e valores;
 - Extrai de forma estruturada com seu texto semântico.
+
 
 ### Cases relacionados a Amazon Textract
 
