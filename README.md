@@ -11,10 +11,12 @@ Integrado com a AWS para escalar conforme a demanda.
 
 É um serviço de análise de documento que utiliza ML para detectar e extrair textos impressos e manuscritos, dados estruturados (campos e valores de interesse), tabelas de imagens e digitalizações de documentos.
 
-Diferente do tradicional, o amazon textract:
-Reconhece tabelas e seus conteúdos;
-Identifica campos-chaves e valores;
-Extrai de forma estruturada com seu texto semântico.
+Pode ser utilizado juntamente a linguagens de programção como o python para o reconhecimento de textos em imagens.
+
+Diferente do tradicional OCR, o amazon textract:
+- Reconhece tabelas e seus conteúdos;
+- Identifica campos-chaves e valores;
+- Extrai de forma estruturada com seu texto semântico.
 
 ### Cases relacionados a Amazon Textract
 
