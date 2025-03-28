@@ -16,7 +16,7 @@ Diferente do tradicional OCR, o amazon textract:
 - Extrai de forma estruturada com seu texto semântico.
 
 
-### Cases relacionados a Amazon Textract
+## Cases relacionados a Amazon Textract
 
 Automação de processos financeiros
 Processamento de notas fiscais e recibos;
@@ -28,7 +28,12 @@ Bancos e Seguradoras
 Processamento automático de formulários de seguro
 
 
-### Conceitos de OCR
+## Exemplo de Textract:
+![cadastro](https://github.com/user-attachments/assets/2ede3661-5c3c-452b-84c7-47cfb231fb78)
+Aqui vemos os textos de uma imagem sendo detectada.
+
+
+## Conceitos de OCR
 
 OCR (Optical Character Recognition) é uma tecnologia que converte texto de imagens ou documentos em texto legível por máquina
 Exemplo: A digitalizadora da impressora, preenchimento automático de formulários, automação de processos como leitura de faturas.
